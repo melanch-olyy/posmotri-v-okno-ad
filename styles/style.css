@@ -362,9 +362,7 @@ ol {
   font-weight: 700;
   text-transform: uppercase;
   margin-bottom: 6px;
-  
-  /* Обрезание текста троеточием */
-  white-space: nowrap;
+  white-space: nowrap; /* Обрезание текста троеточием */
   overflow: hidden;
   text-overflow: ellipsis;
 }
